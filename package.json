@@ -49,7 +49,7 @@
     "firebase-functions": "^3.0.0",
     "graphql-tools": "^5.0.0",
     "node-fetch": "^2.1.2",
-    "apollo-server-core": "2.12.0",
+    "apollo-server-core": "2.14.2",
     "apollo-server-module-graphiql": "1.4.0",
     "boom": "^7.3.0",
     "fs-extra": "7.0.1",
